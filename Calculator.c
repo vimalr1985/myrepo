@@ -9,4 +9,6 @@ main()
   C=A+B;
   //Subract
   C=A-B;
+  //Multiply
+  C=A*B;
 }
