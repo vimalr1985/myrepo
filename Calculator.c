@@ -6,6 +6,7 @@ main()
   int A;
   int B;
   int C;
+  char n;
   C=A+B;
   //Subract
   C=A-B;
