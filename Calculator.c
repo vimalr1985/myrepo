@@ -1,2 +1,5 @@
-//****This is github testing program *** calcculator program done this ***//
+//****This is github testing program *** calculator program done this ***//
 #include<stdio.h>
+main()
+{
+}
