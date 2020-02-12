@@ -16,7 +16,7 @@ main()
   C=A/B;
         switch (n)
       {
-          case 1: 
+          case 'add': 
               break;
           default: 
       }
