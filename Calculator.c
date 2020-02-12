@@ -4,4 +4,5 @@
 main()
 {
   int A;
+  int B;
 }
