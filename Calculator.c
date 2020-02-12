@@ -11,4 +11,6 @@ main()
   C=A-B;
   //Multiply
   C=A*B;
+  //Divide function added
+  C=A/B;
 }
