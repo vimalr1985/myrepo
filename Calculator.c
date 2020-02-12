@@ -13,4 +13,10 @@ main()
   C=A*B;
   //Divide function added
   C=A/B;
+        switch (n)
+      {
+          case 1: 
+              break;
+          default: 
+      }
 }
