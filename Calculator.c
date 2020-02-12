@@ -6,4 +6,5 @@ main()
   int A;
   int B;
   int C;
+  C=A+B;
 }
