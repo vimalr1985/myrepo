@@ -3,4 +3,5 @@
 #include<conio.h> 
 main()
 {
+  int A;
 }
