@@ -5,4 +5,5 @@ main()
 {
   int A;
   int B;
+  int C;
 }
