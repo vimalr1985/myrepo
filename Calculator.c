@@ -6,4 +6,6 @@ main()
   int A;
   int B;
   int C;
+  //Divide function added
+  C=A/B;
 }
